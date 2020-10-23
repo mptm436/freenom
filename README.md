@@ -9,6 +9,7 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
 </div>
 
+action started!!!
 [📃  前言](#--前言)
 
 [🍭  效果](#--效果)
